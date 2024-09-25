@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionSaludo</string>
+    <string name="name">Escriba tu nombre</string>
+    <string name="imprime">Imprimir saludo</string>
+</resources>
